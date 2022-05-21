@@ -16,10 +16,9 @@
 - download code `git clone https://github.com/TijnD07/ValoBananaCheat.git`
 - Install libraries with `pip install -U -r requirements.txt`
 - first open the console then run the code with `ValoBanana`
-- **NOTE:**  You need python 3 on your computer for this method
 
-### second method / easy but I don't recommend
-- download the latest version [here](https://github.com/R3nzTheCodeGOD/Valorant-External-Cheat/releases)
+### second method / easy and I recommend using this one!
+- download the latest version [here](https://github.com/TijnD07/ValoBananaCheat.git)
 - run `ValoBanana.exe`
 
 ## **Game Settings and Note**
