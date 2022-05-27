@@ -13,7 +13,7 @@
 ## **Download and Using** 
 
 ### I suggest
-- download code `git clone https://github.com/TijnD07/ValoBananaCheat.git`
+- download code `git clone https://github.com/NotMeYea/ValoBananaCheat.git`
 - Install libraries with `pip install -U -r requirements.txt`
 - first open the console then run the code with `ValoBanana`
 
