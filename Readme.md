@@ -18,7 +18,7 @@
 - first open the console then run the code with `ValoBanana`
 
 ### second method / easy and I recommend using this one!
-- download the latest version [here](https://github.com/TijnD07/ValoBananaCheat.git)
+- download the latest version [here](https://github.com/NotMeYea/ValoBananaCheat.git)
 - run `ValoBanana.exe`
 
 ## **Game Settings and Note**
