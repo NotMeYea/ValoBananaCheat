@@ -9,7 +9,7 @@
 NEW CHEAT UPDATED UNDETECTED, if it gets detected message me on discord: ky0 ✞#3167
 
 # **ValoBanana Valorant External Cheat**
-- **Status:** `UNDEDECTED`
+- **Status:** `NEW VERSION IS UNDEDECTED`
 - **The Cheat that hits the opponents approaching the barrel in an average of 5ms.**
 
 ## **Download and Using** 
