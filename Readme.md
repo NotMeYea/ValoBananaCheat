@@ -6,6 +6,8 @@
 </div>
 
 
+NEW CHEAT UPDATED UNDETECTED, if it gets detected message me on discord: ky0 ✞#3167
+
 # **ValoBanana Valorant External Cheat**
 - **Status:** `UNDEDECTED`
 - **The Cheat that hits the opponents approaching the barrel in an average of 5ms.**
@@ -45,6 +47,11 @@
 - Added HoldKey and ToggleKey mode
 
 <details>
+
+### Version v2.0.2
+- Made it undetected
+- New esp
+- You can set the smoothness 
 
 ### Version v2.0.2
 - 1ms performance boost
